@@ -1,5 +1,4 @@
 ## Olá mundo, sou Pedro Henrique!
-"Standing on the shoulders of giants..."
  - 📚 Cursando Engenharia de Software - UTFPR (3º Período)
  - 🔎 Atualmente estudando JavaScript
 
