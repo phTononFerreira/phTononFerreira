@@ -1,4 +1,4 @@
-## Olá mundo, sou Pedro Henrique!
+## Olá, sou Pedro Henrique!
  - 📚 Cursando Engenharia de Software - UTFPR (3º Período)
  - 🔎 Atualmente estudando JavaScript
 
