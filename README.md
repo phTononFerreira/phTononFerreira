@@ -1,7 +1,7 @@
 ## Olá, sou Pedro Henrique!
- - 📚 Cursando ***Engenharia de Software*** - ***UTFPR*** (3º Período)
+ - 📚 Cursando ***Engenharia de Software*** - ***UTFPR*** (5º Período)
  - 🔎 Atualmente estudando ***Java*** e ***.NET***
- - 💻 Estagiando na ***TCS***
+ - 💻 Trabalhando na ***TCS***
 
 <div align="center">
   <a href="https://github.com/phTononFerreira">
