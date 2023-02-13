@@ -1,6 +1,6 @@
 ## Olá, sou Pedro Henrique!
  - 📚 Cursando ***Engenharia de Software*** - ***UTFPR*** (5º Período)
- - 🔎 Atualmente estudando ***Java*** e ***.NET***
+ - 🔎 Atualmente estudando ***React*** e ***NodeJS***
  - 💻 Trabalhando na ***TCS***
 
 <div align="center">
