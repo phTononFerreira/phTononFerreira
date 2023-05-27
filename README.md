@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Cursando Engenharia de Software - UTFPR (5º Período)<br>🔎 Atualmente estudando React e NodeJS<br>💻 Trabalhando na TCS</p>
+<p align="left">📚 Cursando Engenharia de Software - UTFPR (5º Período)<br>🔎 Atualmente estudando API Restful<br>💻 Trabalhando na TCS</p>
 
 ###
 
