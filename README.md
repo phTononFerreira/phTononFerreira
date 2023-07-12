@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Cursando Engenharia de Software - UTFPR (5º Período)<br>🔎 Atualmente estudando API Restful<br>💻 Trabalhando na TCS</p>
+<p align="left">📚 Cursando Engenharia de Software - UTFPR (6º Período)<br>🔎 Atualmente estudando Spring Boot<br>💻 Trabalhando na PagBank</p>
 
 ###
 
