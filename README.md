@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Cursando Engenharia de Software - UTFPR<br>🔎 Atualmente estudando Spring Boot<br>💻 Trabalhando na PagBank</p>
+<p align="left">📚 Bacharelado em Engenharia de Software - UTFPR<br>🔎 Atualmente estudando Spring Boot<br>💻 Trabalhando na PagBank</p>
 
 ###
 
