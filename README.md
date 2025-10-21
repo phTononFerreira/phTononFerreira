@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Bacharelado em Engenharia de Software - UTFPR<br>🔎 Atualmente estudando Spring Boot<br>💻 Trabalhando na PagBank</p>
+<p align="left">📚 Cursando Engenharia de Software - UTFPR<br>🔎 Atualmente estudando Spring Boot<br>💻 Trabalhando na PagBank</p>
 
 ###
 
@@ -22,6 +22,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="30" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="30" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="30" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="30" width="42" />
+        
+ 
 </div>
 
 ###
